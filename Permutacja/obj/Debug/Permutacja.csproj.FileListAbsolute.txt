@@ -1,6 +1,0 @@
-C:\_Work\Projects\Permutacja\Permutacja\bin\Debug\Permutacja.exe.config
-C:\_Work\Projects\Permutacja\Permutacja\bin\Debug\Permutacja.exe
-C:\_Work\Projects\Permutacja\Permutacja\bin\Debug\Permutacja.pdb
-C:\_Work\Projects\Permutacja\Permutacja\obj\Debug\Permutacja.csprojResolveAssemblyReference.cache
-C:\_Work\Projects\Permutacja\Permutacja\obj\Debug\Permutacja.exe
-C:\_Work\Projects\Permutacja\Permutacja\obj\Debug\Permutacja.pdb
